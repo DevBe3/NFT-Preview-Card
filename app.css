@@ -1,0 +1,134 @@
+.card {
+    background-color: hsl(216, 50%, 16%);
+    height: 63.5vh;
+    width: 224px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 10px;
+    box-shadow: 0 0 10px 10px hsl(220deg 86% 8%), 0 0 25px 25px hsl(221deg 69% 10%);
+    position: relative;
+    top: 115px;    
+    
+}
+
+.equil {
+    height: 190px;
+    border-radius: 8px;
+    margin: 17px 17px 14px 17px;
+    cursor: pointer;
+    position: relative;
+    z-index: 1;
+}
+
+h3 {
+    font-size: 13px;
+    position: relative;
+   bottom: 17px;
+   left: 33px;
+   color: hsl(178, 100%, 50%);
+   display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 11px;
+}
+
+.eth {
+   width: 8px;
+   position: relative;
+   top: 13px;
+   left: 17px;
+   height: 12.5px;
+}
+
+.time {
+    width: 12px;
+    position: relative;
+    left: 140px;
+    bottom: 45px;
+}
+
+h4 {
+    font-size: 90%;
+    position: relative;
+    bottom: 77px;
+    left: 157px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 11px;
+    color: hsl(215, 51%, 70%);
+}
+
+nav {
+    border-width: thin;
+    border-style: solid;
+    position: relative;
+    top: 18px;
+    border-color: lightgray;
+}
+
+h1 {
+    margin: 0 auto 0 17px;
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+    font-size: 14.5px;
+    display: inline;
+    cursor: pointer;
+}
+
+h1:hover{
+    color: cyan;
+}
+
+body {
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: outfit, sans-serif;
+}
+
+.para {
+    color: hsl(215, 51%, 70%);
+    font-size: 11px;
+    margin: 13px auto 2px 17px;
+}
+
+
+.pp {
+    display: inline;
+    height: 20px;
+    border-bottom: 1px solid white;
+    border-radius: 50%;
+    position: relative;
+    bottom: 70px;
+    left: 17px;
+}
+
+.half1 {
+    position: relative;
+    font-size: 13px;
+    bottom: 105px;
+    left: 50px;
+    color:hsl(215, 51%, 70%);
+    font-weight: 300;
+    
+}
+
+.half2 {
+    position: relative;
+    bottom: 137px;
+    left: 118px;
+    display: inline;
+    color: hsl(0, 0%, 100%);
+    padding-top: 5px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 300;
+    
+}
+
+.half2:hover {
+    color: cyan;
+}
+
+
